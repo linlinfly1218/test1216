@@ -19,7 +19,7 @@ namespace test1216_git2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            button1.Text = "OK1";
+            button1.Text = "OK2";
         }
     }
 }
