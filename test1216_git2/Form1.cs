@@ -16,5 +16,10 @@ namespace test1216_git2
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            button1.Text = "OK1";
+        }
     }
 }
